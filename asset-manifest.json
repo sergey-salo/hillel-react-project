@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/hillel-react-project/static/css/main.5a322e8e.css",
-    "main.js": "/hillel-react-project/static/js/main.a34980a4.js",
+    "main.css": "/hillel-react-project/static/css/main.ec1023d3.css",
+    "main.js": "/hillel-react-project/static/js/main.bf7151ec.js",
     "static/js/787.0231b17f.chunk.js": "/hillel-react-project/static/js/787.0231b17f.chunk.js",
     "static/media/vk.svg": "/hillel-react-project/static/media/vk.0d93a032cf11ca0ebb283e24ac10b44e.svg",
     "static/media/logo.svg": "/hillel-react-project/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
@@ -9,12 +9,12 @@
     "static/media/facebook.svg": "/hillel-react-project/static/media/facebook.a1fce1f4cc2f20bd0f7c59b0e9158e5b.svg",
     "index.html": "/hillel-react-project/index.html",
     "static/media/youtube.svg": "/hillel-react-project/static/media/youtube.baef0862532d531ac053d0f04d005683.svg",
-    "main.5a322e8e.css.map": "/hillel-react-project/static/css/main.5a322e8e.css.map",
-    "main.a34980a4.js.map": "/hillel-react-project/static/js/main.a34980a4.js.map",
+    "main.ec1023d3.css.map": "/hillel-react-project/static/css/main.ec1023d3.css.map",
+    "main.bf7151ec.js.map": "/hillel-react-project/static/js/main.bf7151ec.js.map",
     "787.0231b17f.chunk.js.map": "/hillel-react-project/static/js/787.0231b17f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5a322e8e.css",
-    "static/js/main.a34980a4.js"
+    "static/css/main.ec1023d3.css",
+    "static/js/main.bf7151ec.js"
   ]
 }
